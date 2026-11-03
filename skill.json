@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-cutaneous-transepidermal-water-loss-tewl-skill",
+  "version": "1.0.0",
+  "description": "Calculates Transepidermal Water Loss (TEWL) vapor flux based on Fick's first law to evaluate stratum corneum barrier integrity and recovery kinetics.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "dermatology",
+    "skin-barrier",
+    "tewl",
+    "hydration",
+    "biophysics",
+    "fick-diffusion",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
